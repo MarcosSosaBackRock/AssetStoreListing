@@ -1,44 +1,9 @@
 fileFormatVersion: 2
-guid: 997029cc1cb743f4da5d2d7c0fdecd6d
+guid: 52c989b7950617f488746f56f6c4fa05
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: RocksStylized_M_Base_Color
-    second: {fileID: 2800000, guid: 99055716bccb0e94599afa625a7e2d25, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Screenshot 2025-09-23 130359
-    second: {fileID: 2800000, guid: 3b237eefe04694a4dbe13b6e8d6f7262, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Waterflies_Lake_Base_Texture
-    second: {fileID: 2800000, guid: 246db21e6630d2d4698786b3079c62fa, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: aiStandardSurface1_Base_Color
-    second: {fileID: 2800000, guid: 11f7da9ed64f5d7468ae827f28a62ab8, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: aiStandardSurface1_Emissive
-    second: {fileID: 2800000, guid: 493c66833a264ba4cadd38ae5f84eb4f, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: tex
-    second: {fileID: 2800000, guid: cc42b925f8e5df04a91513986d7faef5, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: texture 2
-    second: {fileID: 2800000, guid: 5aa993168824520429fbe8867fa6841e, type: 3}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
