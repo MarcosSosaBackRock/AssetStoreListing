@@ -34,6 +34,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _DepthFactor: 0.68
+    - _DisplacementScale: 0
     - _FoamDistance: 6.8
     - _NumObjects: 6
     - _Shininess: 3

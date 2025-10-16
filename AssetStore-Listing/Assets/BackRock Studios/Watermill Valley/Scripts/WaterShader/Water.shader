@@ -21,6 +21,10 @@ Shader "Custom/ImprovedWater"
         _ShallowColor("Shallow Color", Color) = (0.2, 0.8, 1, 1)
         _DeepColor("Deep Color", Color) = (0.0, 0.3, 0.5, 1)
         _DepthFactor("Depth Factor", Range(0.1, 5.0)) = 1.0
+
+
+        _DisplacementScale("Global Displacement Scale", Range(0.0, 1.0)) = 0.1
+
     }
 
     SubShader
@@ -71,6 +75,9 @@ Shader "Custom/ImprovedWater"
             float4 _DeepColor;
             float _DepthFactor;
 
+            float _DisplacementScale;
+
+
             float calculateDisplacement(float2 uv, sampler2D tex, float scale, float2 speed, float strength)
             {
                 float2 scrolledUV = uv * scale + _Time.x * speed;
@@ -87,9 +94,17 @@ Shader "Custom/ImprovedWater"
 
                 float disp1 = calculateDisplacement(uv1, _MainTex, 1, _WaveSpeed1, _WaveStrength1);
                 float disp2 = calculateDisplacement(uv2, _SecondTex, 1, _WaveSpeed2, _WaveStrength2);
-                float totalDisp = disp1 + disp2;
+               // float totalDisp = disp1 + disp2;
 
-                v.vertex.xyz += v.normal * totalDisp;
+               // v.vertex.xyz += v.normal * totalDisp;
+
+                float totalDisp = (disp1 + disp2) * _DisplacementScale;
+
+               // Keep the average height around the original plane (center it)
+                v.vertex.xyz += v.normal * (totalDisp - 0.5 * (_WaveStrength1 + _WaveStrength2));
+
+              //  float totalDisp = (disp1 + disp2) * _DisplacementScale;
+                //VER SI FUNCA   v.vertex.xyz += v.normal * totalDisp;
 
                 o.vertex = UnityObjectToClipPos(v.vertex);
                 o.worldPos = mul(unity_ObjectToWorld, v.vertex).xyz;
