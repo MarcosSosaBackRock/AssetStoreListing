@@ -13,21 +13,49 @@ public class LightFlicker : MonoBehaviour
     [Tooltip("How fast the light flickers. Lower = slower flicker.")]
     public float flickerSpeed = 5f;
 
+    [Header("Spark Effect")]
+    [Tooltip("Prefab of the spark effect to spawn.")]
+    public GameObject sparkPrefab;
+    public Transform spawnParticlePos;
+    [Tooltip("Time range (in seconds) between spark spawns.")]
+    public Vector2 sparkIntervalRange = new Vector2(1f, 3f);
+    [Tooltip("How long the spark stays alive before being destroyed.")]
+    public float sparkLifetime = 0.5f;
+
     private float randomTimeOffset;
+    private float nextSparkTime;
 
     void Start()
     {
         if (flickerLight == null)
             flickerLight = GetComponent<Light>();
 
-        // Random offset so multiple lights don’t flicker in sync
         randomTimeOffset = Random.Range(0f, 100f);
+        SetNextSparkTime();
     }
 
     void Update()
     {
-        // Create a smooth flicker using Perlin noise (no harsh jumps)
+        // --- Flicker effect ---
         float noise = Mathf.PerlinNoise(Time.time * flickerSpeed + randomTimeOffset, 0.0f);
         flickerLight.intensity = Mathf.Lerp(minIntensity, maxIntensity, noise);
+
+        // --- Spark spawning ---
+        if (sparkPrefab != null && Time.time >= nextSparkTime)
+        {
+            SpawnSpark();
+            SetNextSparkTime();
+        }
+    }
+
+    void SpawnSpark()
+    {
+        GameObject spark = Instantiate(sparkPrefab, spawnParticlePos.position, Quaternion.identity);
+        Destroy(spark, sparkLifetime);
+    }
+
+    void SetNextSparkTime()
+    {
+        nextSparkTime = Time.time + Random.Range(sparkIntervalRange.x, sparkIntervalRange.y);
     }
 }
