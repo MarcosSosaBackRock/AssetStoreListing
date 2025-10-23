@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8619355531266638014
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: c9b634161b5e2824fa7def331ee715dd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: c9b634161b5e2824fa7def331ee715dd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: c9b634161b5e2824fa7def331ee715dd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: c9b634161b5e2824fa7def331ee715dd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: c9b634161b5e2824fa7def331ee715dd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: c9b634161b5e2824fa7def331ee715dd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: c9b634161b5e2824fa7def331ee715dd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: c9b634161b5e2824fa7def331ee715dd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: c9b634161b5e2824fa7def331ee715dd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: c9b634161b5e2824fa7def331ee715dd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7728759356881629868, guid: c9b634161b5e2824fa7def331ee715dd, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: e6327b3225a580f4792a2f79a13e2974, type: 2}
+    - target: {fileID: -7728759356881629868, guid: c9b634161b5e2824fa7def331ee715dd, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 44219bba204fffd439f76720dd7c5e24, type: 2}
+    - target: {fileID: -7520639086539199516, guid: c9b634161b5e2824fa7def331ee715dd, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 89f3889b3112ca54a9acbf84ca2dc800, type: 2}
+    - target: {fileID: 629145161091640176, guid: c9b634161b5e2824fa7def331ee715dd, type: 3}
+      propertyPath: m_Name
+      value: VendingMachine
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c9b634161b5e2824fa7def331ee715dd, type: 3}
+      propertyPath: m_Name
+      value: VendingMachine-TrashBin
+      objectReference: {fileID: 0}
+    - target: {fileID: 1531507044180787154, guid: c9b634161b5e2824fa7def331ee715dd, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 46c6246ba1b5ac2449fe2250077ec790, type: 2}
+    - target: {fileID: 3037526628090621443, guid: c9b634161b5e2824fa7def331ee715dd, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 54c130baccf70974293a911a00630eea, type: 2}
+    - target: {fileID: 4095781053830792658, guid: c9b634161b5e2824fa7def331ee715dd, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 0b2f5388cf61b1b4a96c9430eeaa1aa2, type: 2}
+    - target: {fileID: 5142127032031704340, guid: c9b634161b5e2824fa7def331ee715dd, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 5521554d53b6ca54e84bac663bcd7af8, type: 2}
+    - target: {fileID: 5260345866405229412, guid: c9b634161b5e2824fa7def331ee715dd, type: 3}
+      propertyPath: m_Name
+      value: TrashBin
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c9b634161b5e2824fa7def331ee715dd, type: 3}
