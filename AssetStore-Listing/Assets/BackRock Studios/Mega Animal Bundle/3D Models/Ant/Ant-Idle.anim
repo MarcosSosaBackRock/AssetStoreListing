@@ -90,7 +90,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant
+    path: Ant_Rig_Group/Ant
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -124,7 +124,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1
+    path: Ant_Rig_Group/Ant/Ant1
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -212,7 +212,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant2
+    path: Ant_Rig_Group/Ant/Ant1/Ant2
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -237,7 +237,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant2/Ant3
+    path: Ant_Rig_Group/Ant/Ant1/Ant2/Ant3
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -325,7 +325,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant4
+    path: Ant_Rig_Group/Ant/Ant1/Ant4
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -413,7 +413,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant4/Ant5
+    path: Ant_Rig_Group/Ant/Ant1/Ant4/Ant5
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -501,7 +501,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant4/Ant5/Ant6
+    path: Ant_Rig_Group/Ant/Ant1/Ant4/Ant5/Ant6
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -553,7 +553,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant4/Ant5/Ant6/Ant7
+    path: Ant_Rig_Group/Ant/Ant1/Ant4/Ant5/Ant6/Ant7
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -605,7 +605,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant4/Ant5/Ant6/Ant7/Ant8
+    path: Ant_Rig_Group/Ant/Ant1/Ant4/Ant5/Ant6/Ant7/Ant8
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -630,7 +630,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant4/Ant5/Ant6/Ant7/Ant8/Ant9
+    path: Ant_Rig_Group/Ant/Ant1/Ant4/Ant5/Ant6/Ant7/Ant8/Ant9
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -718,7 +718,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant10
+    path: Ant_Rig_Group/Ant/Ant1/Ant10
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -752,7 +752,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant10/Ant11
+    path: Ant_Rig_Group/Ant/Ant1/Ant10/Ant11
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -822,7 +822,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant10/Ant11/Ant12
+    path: Ant_Rig_Group/Ant/Ant1/Ant10/Ant11/Ant12
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -874,7 +874,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant10/Ant11/Ant12/Ant13
+    path: Ant_Rig_Group/Ant/Ant1/Ant10/Ant11/Ant12/Ant13
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -908,7 +908,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant10/Ant11/Ant12/Ant13/Ant14
+    path: Ant_Rig_Group/Ant/Ant1/Ant10/Ant11/Ant12/Ant13/Ant14
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -933,7 +933,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant10/Ant11/Ant12/Ant13/Ant14/Ant15
+    path: Ant_Rig_Group/Ant/Ant1/Ant10/Ant11/Ant12/Ant13/Ant14/Ant15
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1012,7 +1012,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant16
+    path: Ant_Rig_Group/Ant/Ant1/Ant16
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1055,7 +1055,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant16/Ant17
+    path: Ant_Rig_Group/Ant/Ant1/Ant16/Ant17
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1125,7 +1125,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant16/Ant17/Ant18
+    path: Ant_Rig_Group/Ant/Ant1/Ant16/Ant17/Ant18
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1177,7 +1177,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant16/Ant17/Ant18/Ant19
+    path: Ant_Rig_Group/Ant/Ant1/Ant16/Ant17/Ant18/Ant19
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1211,7 +1211,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant16/Ant17/Ant18/Ant19/Ant20
+    path: Ant_Rig_Group/Ant/Ant1/Ant16/Ant17/Ant18/Ant19/Ant20
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1236,7 +1236,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant16/Ant17/Ant18/Ant19/Ant20/Ant21
+    path: Ant_Rig_Group/Ant/Ant1/Ant16/Ant17/Ant18/Ant19/Ant20/Ant21
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1333,7 +1333,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant22
+    path: Ant_Rig_Group/Ant/Ant1/Ant22
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1430,7 +1430,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant22/Ant23
+    path: Ant_Rig_Group/Ant/Ant1/Ant22/Ant23
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1518,7 +1518,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant22/Ant23/Ant24
+    path: Ant_Rig_Group/Ant/Ant1/Ant22/Ant23/Ant24
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1579,7 +1579,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant22/Ant23/Ant24/Ant25
+    path: Ant_Rig_Group/Ant/Ant1/Ant22/Ant23/Ant24/Ant25
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1640,7 +1640,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant22/Ant23/Ant24/Ant25/Ant26
+    path: Ant_Rig_Group/Ant/Ant1/Ant22/Ant23/Ant24/Ant25/Ant26
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1665,7 +1665,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant22/Ant23/Ant24/Ant25/Ant26/Ant27
+    path: Ant_Rig_Group/Ant/Ant1/Ant22/Ant23/Ant24/Ant25/Ant26/Ant27
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1744,7 +1744,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant28
+    path: Ant_Rig_Group/Ant/Ant1/Ant28
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1814,7 +1814,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant28/Ant29
+    path: Ant_Rig_Group/Ant/Ant1/Ant28/Ant29
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1893,7 +1893,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant28/Ant29/Ant30
+    path: Ant_Rig_Group/Ant/Ant1/Ant28/Ant29/Ant30
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1945,7 +1945,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant28/Ant29/Ant30/Ant31
+    path: Ant_Rig_Group/Ant/Ant1/Ant28/Ant29/Ant30/Ant31
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1997,7 +1997,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant28/Ant29/Ant30/Ant31/Ant32
+    path: Ant_Rig_Group/Ant/Ant1/Ant28/Ant29/Ant30/Ant31/Ant32
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2022,7 +2022,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant28/Ant29/Ant30/Ant31/Ant32/Ant33
+    path: Ant_Rig_Group/Ant/Ant1/Ant28/Ant29/Ant30/Ant31/Ant32/Ant33
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2101,7 +2101,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant34
+    path: Ant_Rig_Group/Ant/Ant1/Ant34
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2171,7 +2171,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant34/Ant35
+    path: Ant_Rig_Group/Ant/Ant1/Ant34/Ant35
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2259,7 +2259,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant34/Ant35/Ant36
+    path: Ant_Rig_Group/Ant/Ant1/Ant34/Ant35/Ant36
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2311,7 +2311,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant34/Ant35/Ant36/Ant37
+    path: Ant_Rig_Group/Ant/Ant1/Ant34/Ant35/Ant36/Ant37
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2363,7 +2363,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant34/Ant35/Ant36/Ant37/Ant38
+    path: Ant_Rig_Group/Ant/Ant1/Ant34/Ant35/Ant36/Ant37/Ant38
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2388,7 +2388,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant34/Ant35/Ant36/Ant37/Ant38/Ant39
+    path: Ant_Rig_Group/Ant/Ant1/Ant34/Ant35/Ant36/Ant37/Ant38/Ant39
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2476,7 +2476,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant40
+    path: Ant_Rig_Group/Ant/Ant40
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2555,7 +2555,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant40/Ant41
+    path: Ant_Rig_Group/Ant/Ant40/Ant41
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2580,7 +2580,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant40/Ant41/Ant42
+    path: Ant_Rig_Group/Ant/Ant40/Ant41/Ant42
   m_CompressedRotationCurves: []
   m_EulerCurves: []
   m_PositionCurves:
@@ -2788,7 +2788,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant
+    path: Ant_Rig_Group/Ant
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2813,7 +2813,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1
+    path: Ant_Rig_Group/Ant/Ant1
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2838,7 +2838,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant2
+    path: Ant_Rig_Group/Ant/Ant1/Ant2
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2863,7 +2863,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant2/Ant3
+    path: Ant_Rig_Group/Ant/Ant1/Ant2/Ant3
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2888,7 +2888,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant4
+    path: Ant_Rig_Group/Ant/Ant1/Ant4
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2913,7 +2913,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant4/Ant5
+    path: Ant_Rig_Group/Ant/Ant1/Ant4/Ant5
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2938,7 +2938,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant4/Ant5/Ant6
+    path: Ant_Rig_Group/Ant/Ant1/Ant4/Ant5/Ant6
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2963,7 +2963,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant4/Ant5/Ant6/Ant7
+    path: Ant_Rig_Group/Ant/Ant1/Ant4/Ant5/Ant6/Ant7
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2988,7 +2988,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant4/Ant5/Ant6/Ant7/Ant8
+    path: Ant_Rig_Group/Ant/Ant1/Ant4/Ant5/Ant6/Ant7/Ant8
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3013,7 +3013,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant4/Ant5/Ant6/Ant7/Ant8/Ant9
+    path: Ant_Rig_Group/Ant/Ant1/Ant4/Ant5/Ant6/Ant7/Ant8/Ant9
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3038,7 +3038,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant10
+    path: Ant_Rig_Group/Ant/Ant1/Ant10
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3063,7 +3063,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant10/Ant11
+    path: Ant_Rig_Group/Ant/Ant1/Ant10/Ant11
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3088,7 +3088,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant10/Ant11/Ant12
+    path: Ant_Rig_Group/Ant/Ant1/Ant10/Ant11/Ant12
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3113,7 +3113,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant10/Ant11/Ant12/Ant13
+    path: Ant_Rig_Group/Ant/Ant1/Ant10/Ant11/Ant12/Ant13
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3138,7 +3138,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant10/Ant11/Ant12/Ant13/Ant14
+    path: Ant_Rig_Group/Ant/Ant1/Ant10/Ant11/Ant12/Ant13/Ant14
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3163,7 +3163,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant10/Ant11/Ant12/Ant13/Ant14/Ant15
+    path: Ant_Rig_Group/Ant/Ant1/Ant10/Ant11/Ant12/Ant13/Ant14/Ant15
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3188,7 +3188,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant16
+    path: Ant_Rig_Group/Ant/Ant1/Ant16
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3213,7 +3213,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant16/Ant17
+    path: Ant_Rig_Group/Ant/Ant1/Ant16/Ant17
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3238,7 +3238,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant16/Ant17/Ant18
+    path: Ant_Rig_Group/Ant/Ant1/Ant16/Ant17/Ant18
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3263,7 +3263,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant16/Ant17/Ant18/Ant19
+    path: Ant_Rig_Group/Ant/Ant1/Ant16/Ant17/Ant18/Ant19
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3288,7 +3288,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant16/Ant17/Ant18/Ant19/Ant20
+    path: Ant_Rig_Group/Ant/Ant1/Ant16/Ant17/Ant18/Ant19/Ant20
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3313,7 +3313,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant16/Ant17/Ant18/Ant19/Ant20/Ant21
+    path: Ant_Rig_Group/Ant/Ant1/Ant16/Ant17/Ant18/Ant19/Ant20/Ant21
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3338,7 +3338,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant22
+    path: Ant_Rig_Group/Ant/Ant1/Ant22
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3363,7 +3363,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant22/Ant23
+    path: Ant_Rig_Group/Ant/Ant1/Ant22/Ant23
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3388,7 +3388,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant22/Ant23/Ant24
+    path: Ant_Rig_Group/Ant/Ant1/Ant22/Ant23/Ant24
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3413,7 +3413,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant22/Ant23/Ant24/Ant25
+    path: Ant_Rig_Group/Ant/Ant1/Ant22/Ant23/Ant24/Ant25
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3438,7 +3438,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant22/Ant23/Ant24/Ant25/Ant26
+    path: Ant_Rig_Group/Ant/Ant1/Ant22/Ant23/Ant24/Ant25/Ant26
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3463,7 +3463,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant22/Ant23/Ant24/Ant25/Ant26/Ant27
+    path: Ant_Rig_Group/Ant/Ant1/Ant22/Ant23/Ant24/Ant25/Ant26/Ant27
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3488,7 +3488,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant28
+    path: Ant_Rig_Group/Ant/Ant1/Ant28
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3513,7 +3513,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant28/Ant29
+    path: Ant_Rig_Group/Ant/Ant1/Ant28/Ant29
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3538,7 +3538,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant28/Ant29/Ant30
+    path: Ant_Rig_Group/Ant/Ant1/Ant28/Ant29/Ant30
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3563,7 +3563,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant28/Ant29/Ant30/Ant31
+    path: Ant_Rig_Group/Ant/Ant1/Ant28/Ant29/Ant30/Ant31
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3588,7 +3588,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant28/Ant29/Ant30/Ant31/Ant32
+    path: Ant_Rig_Group/Ant/Ant1/Ant28/Ant29/Ant30/Ant31/Ant32
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3613,7 +3613,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant28/Ant29/Ant30/Ant31/Ant32/Ant33
+    path: Ant_Rig_Group/Ant/Ant1/Ant28/Ant29/Ant30/Ant31/Ant32/Ant33
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3638,7 +3638,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant34
+    path: Ant_Rig_Group/Ant/Ant1/Ant34
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3663,7 +3663,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant34/Ant35
+    path: Ant_Rig_Group/Ant/Ant1/Ant34/Ant35
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3688,7 +3688,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant34/Ant35/Ant36
+    path: Ant_Rig_Group/Ant/Ant1/Ant34/Ant35/Ant36
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3713,7 +3713,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant34/Ant35/Ant36/Ant37
+    path: Ant_Rig_Group/Ant/Ant1/Ant34/Ant35/Ant36/Ant37
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3738,7 +3738,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant34/Ant35/Ant36/Ant37/Ant38
+    path: Ant_Rig_Group/Ant/Ant1/Ant34/Ant35/Ant36/Ant37/Ant38
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3763,7 +3763,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant34/Ant35/Ant36/Ant37/Ant38/Ant39
+    path: Ant_Rig_Group/Ant/Ant1/Ant34/Ant35/Ant36/Ant37/Ant38/Ant39
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3788,7 +3788,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant40
+    path: Ant_Rig_Group/Ant/Ant40
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3813,7 +3813,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant40/Ant41
+    path: Ant_Rig_Group/Ant/Ant40/Ant41
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3838,7 +3838,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant40/Ant41/Ant42
+    path: Ant_Rig_Group/Ant/Ant40/Ant41/Ant42
   m_ScaleCurves:
   - curve:
       serializedVersion: 2
@@ -3864,7 +3864,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant
+    path: Ant_Rig_Group/Ant
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3889,7 +3889,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1
+    path: Ant_Rig_Group/Ant/Ant1
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3914,7 +3914,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant2
+    path: Ant_Rig_Group/Ant/Ant1/Ant2
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3939,7 +3939,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant2/Ant3
+    path: Ant_Rig_Group/Ant/Ant1/Ant2/Ant3
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3964,7 +3964,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant4
+    path: Ant_Rig_Group/Ant/Ant1/Ant4
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3989,7 +3989,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant4/Ant5
+    path: Ant_Rig_Group/Ant/Ant1/Ant4/Ant5
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4014,7 +4014,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant4/Ant5/Ant6
+    path: Ant_Rig_Group/Ant/Ant1/Ant4/Ant5/Ant6
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4039,7 +4039,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant4/Ant5/Ant6/Ant7
+    path: Ant_Rig_Group/Ant/Ant1/Ant4/Ant5/Ant6/Ant7
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4064,7 +4064,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant4/Ant5/Ant6/Ant7/Ant8
+    path: Ant_Rig_Group/Ant/Ant1/Ant4/Ant5/Ant6/Ant7/Ant8
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4089,7 +4089,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant4/Ant5/Ant6/Ant7/Ant8/Ant9
+    path: Ant_Rig_Group/Ant/Ant1/Ant4/Ant5/Ant6/Ant7/Ant8/Ant9
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4114,7 +4114,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant10
+    path: Ant_Rig_Group/Ant/Ant1/Ant10
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4139,7 +4139,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant10/Ant11
+    path: Ant_Rig_Group/Ant/Ant1/Ant10/Ant11
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4164,7 +4164,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant10/Ant11/Ant12
+    path: Ant_Rig_Group/Ant/Ant1/Ant10/Ant11/Ant12
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4189,7 +4189,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant10/Ant11/Ant12/Ant13
+    path: Ant_Rig_Group/Ant/Ant1/Ant10/Ant11/Ant12/Ant13
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4214,7 +4214,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant10/Ant11/Ant12/Ant13/Ant14
+    path: Ant_Rig_Group/Ant/Ant1/Ant10/Ant11/Ant12/Ant13/Ant14
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4239,7 +4239,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant10/Ant11/Ant12/Ant13/Ant14/Ant15
+    path: Ant_Rig_Group/Ant/Ant1/Ant10/Ant11/Ant12/Ant13/Ant14/Ant15
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4264,7 +4264,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant16
+    path: Ant_Rig_Group/Ant/Ant1/Ant16
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4289,7 +4289,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant16/Ant17
+    path: Ant_Rig_Group/Ant/Ant1/Ant16/Ant17
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4314,7 +4314,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant16/Ant17/Ant18
+    path: Ant_Rig_Group/Ant/Ant1/Ant16/Ant17/Ant18
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4339,7 +4339,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant16/Ant17/Ant18/Ant19
+    path: Ant_Rig_Group/Ant/Ant1/Ant16/Ant17/Ant18/Ant19
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4364,7 +4364,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant16/Ant17/Ant18/Ant19/Ant20
+    path: Ant_Rig_Group/Ant/Ant1/Ant16/Ant17/Ant18/Ant19/Ant20
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4389,7 +4389,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant16/Ant17/Ant18/Ant19/Ant20/Ant21
+    path: Ant_Rig_Group/Ant/Ant1/Ant16/Ant17/Ant18/Ant19/Ant20/Ant21
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4414,7 +4414,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant22
+    path: Ant_Rig_Group/Ant/Ant1/Ant22
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4439,7 +4439,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant22/Ant23
+    path: Ant_Rig_Group/Ant/Ant1/Ant22/Ant23
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4464,7 +4464,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant22/Ant23/Ant24
+    path: Ant_Rig_Group/Ant/Ant1/Ant22/Ant23/Ant24
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4489,7 +4489,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant22/Ant23/Ant24/Ant25
+    path: Ant_Rig_Group/Ant/Ant1/Ant22/Ant23/Ant24/Ant25
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4514,7 +4514,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant22/Ant23/Ant24/Ant25/Ant26
+    path: Ant_Rig_Group/Ant/Ant1/Ant22/Ant23/Ant24/Ant25/Ant26
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4539,7 +4539,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant22/Ant23/Ant24/Ant25/Ant26/Ant27
+    path: Ant_Rig_Group/Ant/Ant1/Ant22/Ant23/Ant24/Ant25/Ant26/Ant27
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4564,7 +4564,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant28
+    path: Ant_Rig_Group/Ant/Ant1/Ant28
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4589,7 +4589,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant28/Ant29
+    path: Ant_Rig_Group/Ant/Ant1/Ant28/Ant29
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4614,7 +4614,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant28/Ant29/Ant30
+    path: Ant_Rig_Group/Ant/Ant1/Ant28/Ant29/Ant30
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4639,7 +4639,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant28/Ant29/Ant30/Ant31
+    path: Ant_Rig_Group/Ant/Ant1/Ant28/Ant29/Ant30/Ant31
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4664,7 +4664,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant28/Ant29/Ant30/Ant31/Ant32
+    path: Ant_Rig_Group/Ant/Ant1/Ant28/Ant29/Ant30/Ant31/Ant32
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4689,7 +4689,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant28/Ant29/Ant30/Ant31/Ant32/Ant33
+    path: Ant_Rig_Group/Ant/Ant1/Ant28/Ant29/Ant30/Ant31/Ant32/Ant33
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4714,7 +4714,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant34
+    path: Ant_Rig_Group/Ant/Ant1/Ant34
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4739,7 +4739,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant34/Ant35
+    path: Ant_Rig_Group/Ant/Ant1/Ant34/Ant35
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4764,7 +4764,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant34/Ant35/Ant36
+    path: Ant_Rig_Group/Ant/Ant1/Ant34/Ant35/Ant36
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4789,7 +4789,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant34/Ant35/Ant36/Ant37
+    path: Ant_Rig_Group/Ant/Ant1/Ant34/Ant35/Ant36/Ant37
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4814,7 +4814,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant34/Ant35/Ant36/Ant37/Ant38
+    path: Ant_Rig_Group/Ant/Ant1/Ant34/Ant35/Ant36/Ant37/Ant38
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4839,7 +4839,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant1/Ant34/Ant35/Ant36/Ant37/Ant38/Ant39
+    path: Ant_Rig_Group/Ant/Ant1/Ant34/Ant35/Ant36/Ant37/Ant38/Ant39
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4864,7 +4864,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant40
+    path: Ant_Rig_Group/Ant/Ant40
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4889,7 +4889,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant40/Ant41
+    path: Ant_Rig_Group/Ant/Ant40/Ant41
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4914,7 +4914,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Ant/Ant40/Ant41/Ant42
+    path: Ant_Rig_Group/Ant/Ant40/Ant41/Ant42
   m_FloatCurves: []
   m_PPtrCurves: []
   m_SampleRate: 24
@@ -4923,1168 +4923,7 @@ AnimationClip:
     m_Center: {x: 0, y: 0, z: 0}
     m_Extent: {x: 0, y: 0, z: 0}
   m_ClipBindingConstant:
-    genericBindings:
-    - serializedVersion: 2
-      path: 184805075
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 184805075
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 573331085
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1445176881
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3208643332
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 222353650
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1956371991
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3118653852
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1649897381
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2390667134
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2654840158
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3752836560
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3130255989
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 334799490
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1729956427
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 344864081
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 4233084457
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3272575211
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1469868933
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1264426385
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1108246907
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 416075132
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1386411505
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1579210796
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2877846671
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 111884075
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2559902028
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 863721846
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3833408647
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3139766757
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 487334059
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2101974558
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1003731669
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1922595716
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 445118639
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2976891979
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 573331085
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1445176881
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 846896858
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3208643332
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 222353650
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1956371991
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3118653852
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1649897381
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 364799203
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2390667134
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2654840158
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3752836560
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3130255989
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 334799490
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1958674792
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1729956427
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 344864081
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 4233084457
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3272575211
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1469868933
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 687789648
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1264426385
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1108246907
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 416075132
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1386411505
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1579210796
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 4036791082
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2877846671
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 111884075
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2559902028
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 863721846
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3833408647
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3509306747
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3139766757
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 487334059
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2101974558
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1003731669
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1922595716
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 627456088
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 445118639
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2976891979
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 126108340
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 846896858
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 364799203
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1958674792
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 687789648
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 4036791082
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3509306747
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 627456088
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 126108340
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 184805075
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 573331085
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1445176881
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 846896858
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3208643332
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 222353650
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1956371991
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3118653852
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1649897381
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 364799203
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2390667134
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2654840158
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3752836560
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3130255989
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 334799490
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1958674792
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1729956427
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 344864081
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 4233084457
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3272575211
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1469868933
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 687789648
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1264426385
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1108246907
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 416075132
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1386411505
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1579210796
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 4036791082
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2877846671
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 111884075
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2559902028
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 863721846
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3833408647
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3509306747
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3139766757
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 487334059
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2101974558
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1003731669
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1922595716
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 627456088
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 445118639
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2976891979
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 126108340
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
+    genericBindings: []
     pptrCurveMapping: []
   m_AnimationClipSettings:
     serializedVersion: 2
@@ -6096,7 +4935,7 @@ AnimationClip:
     m_Level: 0
     m_CycleOffset: 0
     m_HasAdditiveReferencePose: 0
-    m_LoopTime: 1
+    m_LoopTime: 0
     m_LoopBlend: 0
     m_LoopBlendOrientation: 0
     m_LoopBlendPositionY: 0

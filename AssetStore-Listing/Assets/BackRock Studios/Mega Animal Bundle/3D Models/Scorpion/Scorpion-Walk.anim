@@ -63,7 +63,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog
+    path: Scorpion_Rig/Scorpion_cog
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -124,7 +124,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion1
+    path: Scorpion_Rig/Scorpion_cog/Scorpion1
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -149,7 +149,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion1/Scorpion2
+    path: Scorpion_Rig/Scorpion_cog/Scorpion1/Scorpion2
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -201,7 +201,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion1/Scorpion3
+    path: Scorpion_Rig/Scorpion_cog/Scorpion1/Scorpion3
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -253,7 +253,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion1/Scorpion3/Scorpion4
+    path: Scorpion_Rig/Scorpion_cog/Scorpion1/Scorpion3/Scorpion4
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -278,7 +278,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion1/Scorpion3/Scorpion4/Scorpion5
+    path: Scorpion_Rig/Scorpion_cog/Scorpion1/Scorpion3/Scorpion4/Scorpion5
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -330,7 +330,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion1/Scorpion6
+    path: Scorpion_Rig/Scorpion_cog/Scorpion1/Scorpion6
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -382,7 +382,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion1/Scorpion6/Scorpion7
+    path: Scorpion_Rig/Scorpion_cog/Scorpion1/Scorpion6/Scorpion7
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -407,7 +407,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion1/Scorpion6/Scorpion7/Scorpion8
+    path: Scorpion_Rig/Scorpion_cog/Scorpion1/Scorpion6/Scorpion7/Scorpion8
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -432,7 +432,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion1/Scorpion9
+    path: Scorpion_Rig/Scorpion_cog/Scorpion1/Scorpion9
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -457,7 +457,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion1/Scorpion9/Scorpion10
+    path: Scorpion_Rig/Scorpion_cog/Scorpion1/Scorpion9/Scorpion10
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -482,7 +482,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion1/Scorpion11
+    path: Scorpion_Rig/Scorpion_cog/Scorpion1/Scorpion11
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -507,7 +507,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion1/Scorpion11/Scorpion12
+    path: Scorpion_Rig/Scorpion_cog/Scorpion1/Scorpion11/Scorpion12
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -550,7 +550,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion13
+    path: Scorpion_Rig/Scorpion_cog/Scorpion13
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -593,7 +593,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion13/Scorpion14
+    path: Scorpion_Rig/Scorpion_cog/Scorpion13/Scorpion14
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -645,7 +645,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15
+    path: Scorpion_Rig/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -679,7 +679,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15/Scorpion16
+    path: Scorpion_Rig/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15/Scorpion16
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -713,7 +713,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15/Scorpion16/Scorpion17
+    path: Scorpion_Rig/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15/Scorpion16/Scorpion17
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -747,7 +747,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15/Scorpion16/Scorpion17/Scorpion18
+    path: Scorpion_Rig/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15/Scorpion16/Scorpion17/Scorpion18
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -781,7 +781,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15/Scorpion16/Scorpion17/Scorpion18/Scorpion19
+    path: Scorpion_Rig/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15/Scorpion16/Scorpion17/Scorpion18/Scorpion19
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -842,7 +842,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15/Scorpion16/Scorpion17/Scorpion18/Scorpion19/Scorpion20
+    path: Scorpion_Rig/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15/Scorpion16/Scorpion17/Scorpion18/Scorpion19/Scorpion20
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -867,7 +867,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15/Scorpion16/Scorpion17/Scorpion18/Scorpion19/Scorpion20/Scorpion21
+    path: Scorpion_Rig/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15/Scorpion16/Scorpion17/Scorpion18/Scorpion19/Scorpion20/Scorpion21
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -946,7 +946,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion22
+    path: Scorpion_Rig/Scorpion_cog/Scorpion22
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1007,7 +1007,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion22/Scorpion23
+    path: Scorpion_Rig/Scorpion_cog/Scorpion22/Scorpion23
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1113,7 +1113,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion22/Scorpion23/Scorpion24
+    path: Scorpion_Rig/Scorpion_cog/Scorpion22/Scorpion23/Scorpion24
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1138,7 +1138,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion22/Scorpion23/Scorpion24/Scorpion25
+    path: Scorpion_Rig/Scorpion_cog/Scorpion22/Scorpion23/Scorpion24/Scorpion25
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1226,7 +1226,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion26
+    path: Scorpion_Rig/Scorpion_cog/Scorpion26
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1278,7 +1278,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion26/Scorpion27
+    path: Scorpion_Rig/Scorpion_cog/Scorpion26/Scorpion27
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1366,7 +1366,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion26/Scorpion27/Scorpion28
+    path: Scorpion_Rig/Scorpion_cog/Scorpion26/Scorpion27/Scorpion28
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1391,7 +1391,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion26/Scorpion27/Scorpion28/Scorpion29
+    path: Scorpion_Rig/Scorpion_cog/Scorpion26/Scorpion27/Scorpion28/Scorpion29
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1497,7 +1497,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion30
+    path: Scorpion_Rig/Scorpion_cog/Scorpion30
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1576,7 +1576,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion30/Scorpion31
+    path: Scorpion_Rig/Scorpion_cog/Scorpion30/Scorpion31
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1682,7 +1682,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion30/Scorpion31/Scorpion32
+    path: Scorpion_Rig/Scorpion_cog/Scorpion30/Scorpion31/Scorpion32
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1707,7 +1707,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion30/Scorpion31/Scorpion32/Scorpion33
+    path: Scorpion_Rig/Scorpion_cog/Scorpion30/Scorpion31/Scorpion32/Scorpion33
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1804,7 +1804,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion34
+    path: Scorpion_Rig/Scorpion_cog/Scorpion34
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1865,7 +1865,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion34/Scorpion35
+    path: Scorpion_Rig/Scorpion_cog/Scorpion34/Scorpion35
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1953,7 +1953,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion34/Scorpion35/Scorpion36
+    path: Scorpion_Rig/Scorpion_cog/Scorpion34/Scorpion35/Scorpion36
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1978,7 +1978,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion34/Scorpion35/Scorpion36/Scorpion37
+    path: Scorpion_Rig/Scorpion_cog/Scorpion34/Scorpion35/Scorpion36/Scorpion37
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2057,7 +2057,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion38
+    path: Scorpion_Rig/Scorpion_cog/Scorpion38
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2118,7 +2118,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion38/Scorpion39
+    path: Scorpion_Rig/Scorpion_cog/Scorpion38/Scorpion39
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2215,7 +2215,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion38/Scorpion39/Scorpion40
+    path: Scorpion_Rig/Scorpion_cog/Scorpion38/Scorpion39/Scorpion40
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2240,7 +2240,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion38/Scorpion39/Scorpion40/Scorpion41
+    path: Scorpion_Rig/Scorpion_cog/Scorpion38/Scorpion39/Scorpion40/Scorpion41
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2319,7 +2319,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion42
+    path: Scorpion_Rig/Scorpion_cog/Scorpion42
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2380,7 +2380,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion42/Scorpion43
+    path: Scorpion_Rig/Scorpion_cog/Scorpion42/Scorpion43
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2486,7 +2486,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion42/Scorpion43/Scorpion44
+    path: Scorpion_Rig/Scorpion_cog/Scorpion42/Scorpion43/Scorpion44
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2511,7 +2511,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion42/Scorpion43/Scorpion44/Scorpion45
+    path: Scorpion_Rig/Scorpion_cog/Scorpion42/Scorpion43/Scorpion44/Scorpion45
   m_CompressedRotationCurves: []
   m_EulerCurves: []
   m_PositionCurves:
@@ -2520,63 +2520,63 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 3.490375e-10, y: 0.4018378, z: 0.11910652}
-        inSlope: {x: 0.0000000014384554, y: 0.5268247, z: -0.0000006672955}
-        outSlope: {x: 0.0000000014386087, y: 0.5268696, z: -0}
+        value: {x: 6.98075e-10, y: 0.8036756, z: 0.23821305}
+        inSlope: {x: 0.0000000028769107, y: 1.0536494, z: -0.000001334591}
+        outSlope: {x: 0.0000000028772174, y: 1.0537392, z: -0}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.041666508
-        value: {x: 2.997006e-10, y: 0.39332888, z: 0.11910652}
-        inSlope: {x: -0.000000001915077, y: -0.27312997, z: -0}
-        outSlope: {x: -0.0000000019150492, y: -0.27313438, z: -0}
+        value: {x: 5.994012e-10, y: 0.78665775, z: 0.23821305}
+        inSlope: {x: -0.000000003830154, y: -0.54625994, z: -0}
+        outSlope: {x: -0.0000000038300985, y: -0.54626876, z: -0}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.125
-        value: {x: 7.428822e-11, y: 0.3737574, z: 0.11910652}
-        inSlope: {x: -0.0000000028431182, y: -0.024617502, z: -0}
-        outSlope: {x: -0.0000000028429838, y: -0.024621284, z: -0}
+        value: {x: 1.4857644e-10, y: 0.7475148, z: 0.23821305}
+        inSlope: {x: -0.0000000056862364, y: -0.049235005, z: -0}
+        outSlope: {x: -0.0000000056859677, y: -0.049242567, z: -0}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.25
-        value: {x: -3.013532e-10, y: 0.39697924, z: 0.11910652}
-        inSlope: {x: -0.000000001948833, y: 0.18765068, z: -0}
-        outSlope: {x: -0.0000000019487307, y: 0.1876462, z: -0}
+        value: {x: -6.027064e-10, y: 0.7939585, z: 0.23821305}
+        inSlope: {x: -0.000000003897666, y: 0.37530136, z: -0}
+        outSlope: {x: -0.0000000038974615, y: 0.3752924, z: -0}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.33333302
-        value: {x: -2.1681508e-10, y: 0.39332888, z: 0.11910652}
-        inSlope: {x: 0.000000004297575, y: -0.27314022, z: -0}
-        outSlope: {x: 0.0000000042977932, y: -0.2731602, z: -0}
+        value: {x: -4.3363016e-10, y: 0.78665775, z: 0.23821305}
+        inSlope: {x: 0.00000000859515, y: -0.54628044, z: -0}
+        outSlope: {x: 0.0000000085955865, y: -0.5463204, z: -0}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.4166665
-        value: {x: 7.428822e-11, y: 0.3737574, z: 0.11910652}
-        inSlope: {x: 6.2510014e-10, y: -0.02460927, z: -0}
-        outSlope: {x: 6.2516603e-10, y: -0.024621284, z: -0}
+        value: {x: 1.4857644e-10, y: 0.7475148, z: 0.23821305}
+        inSlope: {x: 0.0000000012502003, y: -0.04921854, z: -0}
+        outSlope: {x: 0.0000000012503321, y: -0.049242567, z: -0}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: 2.872648e-10, y: 0.39697924, z: 0.11910652}
-        inSlope: {x: 0.000000003015806, y: 0.25868395, z: -0}
-        outSlope: {x: 0.000000003015806, y: 0.25868395, z: -0}
+        value: {x: 5.745296e-10, y: 0.7939585, z: 0.23821305}
+        inSlope: {x: 0.000000006031612, y: 0.5173679, z: -0}
+        outSlope: {x: 0.000000006031612, y: 0.5173679, z: -0}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
@@ -2584,13 +2584,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog
+    path: Scorpion_Rig/Scorpion_cog
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0, y: -0.0000000017843726, z: 0.30741072}
+        value: {x: -0, y: -0.0000000035687453, z: 0.61482143}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2599,7 +2599,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: -0, y: -0.0000000017843726, z: 0.30741072}
+        value: {x: -0, y: -0.0000000035687453, z: 0.61482143}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2609,13 +2609,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion1
+    path: Scorpion_Rig/Scorpion_cog/Scorpion1
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0, y: 0, z: 0.3955223}
+        value: {x: -0, y: 0, z: 0.7910446}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2624,7 +2624,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: -0, y: 0, z: 0.3955223}
+        value: {x: -0, y: 0, z: 0.7910446}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2634,13 +2634,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion1/Scorpion2
+    path: Scorpion_Rig/Scorpion_cog/Scorpion1/Scorpion2
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0.16183484, y: -0.121169835, z: 0.22180891}
+        value: {x: 0.32366967, y: -0.24233967, z: 0.44361782}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2649,7 +2649,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: 0.16183484, y: -0.121169835, z: 0.22180891}
+        value: {x: 0.32366967, y: -0.24233967, z: 0.44361782}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2659,13 +2659,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion1/Scorpion3
+    path: Scorpion_Rig/Scorpion_cog/Scorpion1/Scorpion3
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0.47598478, y: 0.08520181, z: 0.2627436}
+        value: {x: 0.95196956, y: 0.17040361, z: 0.5254872}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2674,7 +2674,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: 0.47598478, y: 0.08520181, z: 0.2627436}
+        value: {x: 0.95196956, y: 0.17040361, z: 0.5254872}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2684,13 +2684,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion1/Scorpion3/Scorpion4
+    path: Scorpion_Rig/Scorpion_cog/Scorpion1/Scorpion3/Scorpion4
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0.23734218, y: -0.052952792, z: 0.84613514}
+        value: {x: -0.47468436, y: -0.105905585, z: 1.6922703}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2699,7 +2699,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: -0.23734218, y: -0.052952792, z: 0.84613514}
+        value: {x: -0.47468436, y: -0.105905585, z: 1.6922703}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2709,13 +2709,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion1/Scorpion3/Scorpion4/Scorpion5
+    path: Scorpion_Rig/Scorpion_cog/Scorpion1/Scorpion3/Scorpion4/Scorpion5
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0.16183484, y: -0.121169835, z: 0.22180891}
+        value: {x: -0.32366967, y: -0.24233967, z: 0.44361782}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2724,7 +2724,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: -0.16183484, y: -0.121169835, z: 0.22180891}
+        value: {x: -0.32366967, y: -0.24233967, z: 0.44361782}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2734,13 +2734,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion1/Scorpion6
+    path: Scorpion_Rig/Scorpion_cog/Scorpion1/Scorpion6
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0.47598478, y: 0.08520181, z: 0.2627436}
+        value: {x: -0.95196956, y: 0.17040361, z: 0.5254872}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2749,7 +2749,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: -0.47598478, y: 0.08520181, z: 0.2627436}
+        value: {x: -0.95196956, y: 0.17040361, z: 0.5254872}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2759,13 +2759,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion1/Scorpion6/Scorpion7
+    path: Scorpion_Rig/Scorpion_cog/Scorpion1/Scorpion6/Scorpion7
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0.23734218, y: -0.052952792, z: 0.84613514}
+        value: {x: 0.47468436, y: -0.105905585, z: 1.6922703}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2774,7 +2774,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: 0.23734218, y: -0.052952792, z: 0.84613514}
+        value: {x: 0.47468436, y: -0.105905585, z: 1.6922703}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2784,13 +2784,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion1/Scorpion6/Scorpion7/Scorpion8
+    path: Scorpion_Rig/Scorpion_cog/Scorpion1/Scorpion6/Scorpion7/Scorpion8
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0.09408695, y: -0.10240403, z: 0.31459406}
+        value: {x: -0.1881739, y: -0.20480806, z: 0.6291881}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2799,7 +2799,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: -0.09408695, y: -0.10240403, z: 0.31459406}
+        value: {x: -0.1881739, y: -0.20480806, z: 0.6291881}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2809,13 +2809,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion1/Scorpion9
+    path: Scorpion_Rig/Scorpion_cog/Scorpion1/Scorpion9
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0.008817476, y: -0.09222528, z: 0.101391606}
+        value: {x: 0.017634952, y: -0.18445057, z: 0.20278321}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2824,7 +2824,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: 0.008817476, y: -0.09222528, z: 0.101391606}
+        value: {x: 0.017634952, y: -0.18445057, z: 0.20278321}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2834,13 +2834,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion1/Scorpion9/Scorpion10
+    path: Scorpion_Rig/Scorpion_cog/Scorpion1/Scorpion9/Scorpion10
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0.09408695, y: -0.10240403, z: 0.31459406}
+        value: {x: 0.1881739, y: -0.20480806, z: 0.6291881}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2849,7 +2849,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: 0.09408695, y: -0.10240403, z: 0.31459406}
+        value: {x: 0.1881739, y: -0.20480806, z: 0.6291881}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2859,13 +2859,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion1/Scorpion11
+    path: Scorpion_Rig/Scorpion_cog/Scorpion1/Scorpion11
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0.008817476, y: -0.09222528, z: 0.101391606}
+        value: {x: -0.017634952, y: -0.18445057, z: 0.20278321}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2874,7 +2874,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: -0.008817476, y: -0.09222528, z: 0.101391606}
+        value: {x: -0.017634952, y: -0.18445057, z: 0.20278321}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2884,13 +2884,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion1/Scorpion11/Scorpion12
+    path: Scorpion_Rig/Scorpion_cog/Scorpion1/Scorpion11/Scorpion12
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0, y: 0.0000000027863682, z: -0.29903513}
+        value: {x: -0, y: 0.0000000055727365, z: -0.59807026}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2899,7 +2899,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: -0, y: 0.0000000027863682, z: -0.29903513}
+        value: {x: -0, y: 0.0000000055727365, z: -0.59807026}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2909,13 +2909,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion13
+    path: Scorpion_Rig/Scorpion_cog/Scorpion13
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0, y: -0.023999637, z: -0.26761717}
+        value: {x: -0, y: -0.047999274, z: -0.53523433}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2924,7 +2924,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: -0, y: -0.023999637, z: -0.26761717}
+        value: {x: -0, y: -0.047999274, z: -0.53523433}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2934,13 +2934,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion13/Scorpion14
+    path: Scorpion_Rig/Scorpion_cog/Scorpion13/Scorpion14
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0, y: -0.019695979, z: -0.27351993}
+        value: {x: -0, y: -0.039391957, z: -0.54703987}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2949,7 +2949,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: -0, y: -0.019695979, z: -0.27351993}
+        value: {x: -0, y: -0.039391957, z: -0.54703987}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2959,13 +2959,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15
+    path: Scorpion_Rig/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0, y: -0.01699842, z: -0.38610974}
+        value: {x: -0, y: -0.03399684, z: -0.7722195}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2974,7 +2974,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: -0, y: -0.01699842, z: -0.38610974}
+        value: {x: -0, y: -0.03399684, z: -0.7722195}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2984,13 +2984,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15/Scorpion16
+    path: Scorpion_Rig/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15/Scorpion16
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0, y: -0.017181572, z: -0.33261323}
+        value: {x: -0, y: -0.034363143, z: -0.66522646}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2999,7 +2999,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: -0, y: -0.017181572, z: -0.33261323}
+        value: {x: -0, y: -0.034363143, z: -0.66522646}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3009,13 +3009,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15/Scorpion16/Scorpion17
+    path: Scorpion_Rig/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15/Scorpion16/Scorpion17
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0, y: -0.010006637, z: -0.287021}
+        value: {x: -0, y: -0.020013275, z: -0.574042}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3024,7 +3024,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: -0, y: -0.010006637, z: -0.287021}
+        value: {x: -0, y: -0.020013275, z: -0.574042}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3034,13 +3034,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15/Scorpion16/Scorpion17/Scorpion18
+    path: Scorpion_Rig/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15/Scorpion16/Scorpion17/Scorpion18
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0, y: -0.011110044, z: -0.2505126}
+        value: {x: -0, y: -0.022220088, z: -0.5010252}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3049,7 +3049,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: -0, y: -0.011110044, z: -0.2505126}
+        value: {x: -0, y: -0.022220088, z: -0.5010252}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3059,13 +3059,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15/Scorpion16/Scorpion17/Scorpion18/Scorpion19
+    path: Scorpion_Rig/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15/Scorpion16/Scorpion17/Scorpion18/Scorpion19
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0, y: -0.0031377682, z: -0.21734361}
+        value: {x: -0, y: -0.0062755365, z: -0.43468723}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3074,7 +3074,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: -0, y: -0.0031377682, z: -0.21734361}
+        value: {x: -0, y: -0.0062755365, z: -0.43468723}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3084,13 +3084,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15/Scorpion16/Scorpion17/Scorpion18/Scorpion19/Scorpion20
+    path: Scorpion_Rig/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15/Scorpion16/Scorpion17/Scorpion18/Scorpion19/Scorpion20
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0, y: 0.03494582, z: -0.4189671}
+        value: {x: -0, y: 0.06989164, z: -0.8379342}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3099,7 +3099,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: -0, y: 0.03494582, z: -0.4189671}
+        value: {x: -0, y: 0.06989164, z: -0.8379342}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3109,13 +3109,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15/Scorpion16/Scorpion17/Scorpion18/Scorpion19/Scorpion20/Scorpion21
+    path: Scorpion_Rig/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15/Scorpion16/Scorpion17/Scorpion18/Scorpion19/Scorpion20/Scorpion21
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0.2446955, y: -0.17828235, z: -0.23765886}
+        value: {x: -0.489391, y: -0.3565647, z: -0.47531772}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3124,7 +3124,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: -0.2446955, y: -0.17828235, z: -0.23765886}
+        value: {x: -0.489391, y: -0.3565647, z: -0.47531772}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3134,13 +3134,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion22
+    path: Scorpion_Rig/Scorpion_cog/Scorpion22
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0.32540494, y: 0.36461765, z: 0}
+        value: {x: -0.6508099, y: 0.7292353, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3149,7 +3149,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: -0.32540494, y: 0.36461765, z: 0}
+        value: {x: -0.6508099, y: 0.7292353, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3159,13 +3159,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion22/Scorpion23
+    path: Scorpion_Rig/Scorpion_cog/Scorpion22/Scorpion23
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0.29065293, y: -0.4217587, z: 0}
+        value: {x: -0.58130586, y: -0.8435174, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3174,7 +3174,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: -0.29065293, y: -0.4217587, z: 0}
+        value: {x: -0.58130586, y: -0.8435174, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3184,13 +3184,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion22/Scorpion23/Scorpion24
+    path: Scorpion_Rig/Scorpion_cog/Scorpion22/Scorpion23/Scorpion24
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0.17423914, y: 0, z: -4.1633363e-17}
+        value: {x: -0.3484783, y: 0, z: -8.326673e-17}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3199,7 +3199,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: -0.17423914, y: 0, z: -4.1633363e-17}
+        value: {x: -0.3484783, y: 0, z: -8.326673e-17}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3209,13 +3209,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion22/Scorpion23/Scorpion24/Scorpion25
+    path: Scorpion_Rig/Scorpion_cog/Scorpion22/Scorpion23/Scorpion24/Scorpion25
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0.2446955, y: -0.17828235, z: -1.5265567e-16}
+        value: {x: -0.489391, y: -0.3565647, z: -3.0531133e-16}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3224,7 +3224,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: -0.2446955, y: -0.17828235, z: -1.5265567e-16}
+        value: {x: -0.489391, y: -0.3565647, z: -3.0531133e-16}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3234,13 +3234,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion26
+    path: Scorpion_Rig/Scorpion_cog/Scorpion26
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0.32540494, y: 0.36461765, z: 0}
+        value: {x: -0.6508099, y: 0.7292353, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3249,7 +3249,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: -0.32540494, y: 0.36461765, z: 0}
+        value: {x: -0.6508099, y: 0.7292353, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3259,13 +3259,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion26/Scorpion27
+    path: Scorpion_Rig/Scorpion_cog/Scorpion26/Scorpion27
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0.29065293, y: -0.4217587, z: 0}
+        value: {x: -0.58130586, y: -0.8435174, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3274,7 +3274,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: -0.29065293, y: -0.4217587, z: 0}
+        value: {x: -0.58130586, y: -0.8435174, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3284,13 +3284,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion26/Scorpion27/Scorpion28
+    path: Scorpion_Rig/Scorpion_cog/Scorpion26/Scorpion27/Scorpion28
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0.17423914, y: 0, z: -4.1633363e-17}
+        value: {x: -0.3484783, y: 0, z: -8.326673e-17}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3299,7 +3299,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: -0.17423914, y: 0, z: -4.1633363e-17}
+        value: {x: -0.3484783, y: 0, z: -8.326673e-17}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3309,13 +3309,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion26/Scorpion27/Scorpion28/Scorpion29
+    path: Scorpion_Rig/Scorpion_cog/Scorpion26/Scorpion27/Scorpion28/Scorpion29
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0.2446955, y: -0.17828235, z: 0.240618}
+        value: {x: -0.489391, y: -0.3565647, z: 0.481236}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3324,7 +3324,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: -0.2446955, y: -0.17828235, z: 0.240618}
+        value: {x: -0.489391, y: -0.3565647, z: 0.481236}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3334,13 +3334,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion30
+    path: Scorpion_Rig/Scorpion_cog/Scorpion30
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0.32540494, y: 0.36461765, z: 0}
+        value: {x: -0.6508099, y: 0.7292353, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3349,7 +3349,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: -0.32540494, y: 0.36461765, z: 0}
+        value: {x: -0.6508099, y: 0.7292353, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3359,13 +3359,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion30/Scorpion31
+    path: Scorpion_Rig/Scorpion_cog/Scorpion30/Scorpion31
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0.29065293, y: -0.4217587, z: 0}
+        value: {x: -0.58130586, y: -0.8435174, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3374,7 +3374,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: -0.29065293, y: -0.4217587, z: 0}
+        value: {x: -0.58130586, y: -0.8435174, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3384,13 +3384,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion30/Scorpion31/Scorpion32
+    path: Scorpion_Rig/Scorpion_cog/Scorpion30/Scorpion31/Scorpion32
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0.17423914, y: -2.0816682e-17, z: -5.551115e-17}
+        value: {x: -0.3484783, y: -4.1633363e-17, z: -1.110223e-16}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3399,7 +3399,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: -0.17423914, y: -2.0816682e-17, z: -5.551115e-17}
+        value: {x: -0.3484783, y: -4.1633363e-17, z: -1.110223e-16}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3409,13 +3409,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion30/Scorpion31/Scorpion32/Scorpion33
+    path: Scorpion_Rig/Scorpion_cog/Scorpion30/Scorpion31/Scorpion32/Scorpion33
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0.2446955, y: -0.17828235, z: -0.23765886}
+        value: {x: 0.489391, y: -0.3565647, z: -0.47531772}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3424,7 +3424,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: 0.2446955, y: -0.17828235, z: -0.23765886}
+        value: {x: 0.489391, y: -0.3565647, z: -0.47531772}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3434,13 +3434,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion34
+    path: Scorpion_Rig/Scorpion_cog/Scorpion34
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0.32540494, y: 0.36461765, z: -4.1633363e-17}
+        value: {x: 0.6508099, y: 0.7292353, z: -8.326673e-17}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3449,7 +3449,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: 0.32540494, y: 0.36461765, z: -4.1633363e-17}
+        value: {x: 0.6508099, y: 0.7292353, z: -8.326673e-17}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3459,13 +3459,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion34/Scorpion35
+    path: Scorpion_Rig/Scorpion_cog/Scorpion34/Scorpion35
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0.29065293, y: -0.4217587, z: -4.1633363e-17}
+        value: {x: 0.58130586, y: -0.8435174, z: -8.326673e-17}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3474,7 +3474,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: 0.29065293, y: -0.4217587, z: -4.1633363e-17}
+        value: {x: 0.58130586, y: -0.8435174, z: -8.326673e-17}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3484,13 +3484,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion34/Scorpion35/Scorpion36
+    path: Scorpion_Rig/Scorpion_cog/Scorpion34/Scorpion35/Scorpion36
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0.17423914, y: 0, z: -6.938894e-17}
+        value: {x: 0.3484783, y: 0, z: -1.3877788e-16}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3499,7 +3499,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: 0.17423914, y: 0, z: -6.938894e-17}
+        value: {x: 0.3484783, y: 0, z: -1.3877788e-16}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3509,13 +3509,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion34/Scorpion35/Scorpion36/Scorpion37
+    path: Scorpion_Rig/Scorpion_cog/Scorpion34/Scorpion35/Scorpion36/Scorpion37
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0.2446955, y: -0.17828235, z: -2.7755576e-17}
+        value: {x: 0.489391, y: -0.3565647, z: -5.551115e-17}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3524,7 +3524,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: 0.2446955, y: -0.17828235, z: -2.7755576e-17}
+        value: {x: 0.489391, y: -0.3565647, z: -5.551115e-17}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3534,13 +3534,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion38
+    path: Scorpion_Rig/Scorpion_cog/Scorpion38
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0.32540494, y: 0.36461765, z: -4.1633363e-17}
+        value: {x: 0.6508099, y: 0.7292353, z: -8.326673e-17}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3549,7 +3549,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: 0.32540494, y: 0.36461765, z: -4.1633363e-17}
+        value: {x: 0.6508099, y: 0.7292353, z: -8.326673e-17}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3559,13 +3559,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion38/Scorpion39
+    path: Scorpion_Rig/Scorpion_cog/Scorpion38/Scorpion39
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0.29065293, y: -0.4217587, z: -4.1633363e-17}
+        value: {x: 0.58130586, y: -0.8435174, z: -8.326673e-17}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3574,7 +3574,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: 0.29065293, y: -0.4217587, z: -4.1633363e-17}
+        value: {x: 0.58130586, y: -0.8435174, z: -8.326673e-17}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3584,13 +3584,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion38/Scorpion39/Scorpion40
+    path: Scorpion_Rig/Scorpion_cog/Scorpion38/Scorpion39/Scorpion40
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0.17423914, y: 0, z: -6.938894e-17}
+        value: {x: 0.3484783, y: 0, z: -1.3877788e-16}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3599,7 +3599,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: 0.17423914, y: 0, z: -6.938894e-17}
+        value: {x: 0.3484783, y: 0, z: -1.3877788e-16}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3609,13 +3609,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion38/Scorpion39/Scorpion40/Scorpion41
+    path: Scorpion_Rig/Scorpion_cog/Scorpion38/Scorpion39/Scorpion40/Scorpion41
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0.2446955, y: -0.17828235, z: 0.240618}
+        value: {x: 0.489391, y: -0.3565647, z: 0.481236}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3624,7 +3624,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: 0.2446955, y: -0.17828235, z: 0.240618}
+        value: {x: 0.489391, y: -0.3565647, z: 0.481236}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3634,13 +3634,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion42
+    path: Scorpion_Rig/Scorpion_cog/Scorpion42
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0.32540494, y: 0.36461765, z: -5.551115e-17}
+        value: {x: 0.6508099, y: 0.7292353, z: -1.110223e-16}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3649,7 +3649,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: 0.32540494, y: 0.36461765, z: -5.551115e-17}
+        value: {x: 0.6508099, y: 0.7292353, z: -1.110223e-16}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3659,13 +3659,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion42/Scorpion43
+    path: Scorpion_Rig/Scorpion_cog/Scorpion42/Scorpion43
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0.29065293, y: -0.4217587, z: -5.551115e-17}
+        value: {x: 0.58130586, y: -0.8435174, z: -1.110223e-16}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3674,7 +3674,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: 0.29065293, y: -0.4217587, z: -5.551115e-17}
+        value: {x: 0.58130586, y: -0.8435174, z: -1.110223e-16}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3684,13 +3684,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion42/Scorpion43/Scorpion44
+    path: Scorpion_Rig/Scorpion_cog/Scorpion42/Scorpion43/Scorpion44
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0.17423914, y: -2.0816682e-17, z: -5.551115e-17}
+        value: {x: 0.3484783, y: -4.1633363e-17, z: -1.110223e-16}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3699,7 +3699,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416665
-        value: {x: 0.17423914, y: -2.0816682e-17, z: -5.551115e-17}
+        value: {x: 0.3484783, y: -4.1633363e-17, z: -1.110223e-16}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -3709,7 +3709,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion42/Scorpion43/Scorpion44/Scorpion45
+    path: Scorpion_Rig/Scorpion_cog/Scorpion42/Scorpion43/Scorpion44/Scorpion45
   m_ScaleCurves:
   - curve:
       serializedVersion: 2
@@ -3735,7 +3735,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog
+    path: Scorpion_Rig/Scorpion_cog
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3760,7 +3760,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion1
+    path: Scorpion_Rig/Scorpion_cog/Scorpion1
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3785,7 +3785,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion1/Scorpion2
+    path: Scorpion_Rig/Scorpion_cog/Scorpion1/Scorpion2
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3810,7 +3810,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion1/Scorpion3
+    path: Scorpion_Rig/Scorpion_cog/Scorpion1/Scorpion3
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3835,7 +3835,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion1/Scorpion3/Scorpion4
+    path: Scorpion_Rig/Scorpion_cog/Scorpion1/Scorpion3/Scorpion4
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3860,7 +3860,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion1/Scorpion3/Scorpion4/Scorpion5
+    path: Scorpion_Rig/Scorpion_cog/Scorpion1/Scorpion3/Scorpion4/Scorpion5
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3885,7 +3885,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion1/Scorpion6
+    path: Scorpion_Rig/Scorpion_cog/Scorpion1/Scorpion6
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3910,7 +3910,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion1/Scorpion6/Scorpion7
+    path: Scorpion_Rig/Scorpion_cog/Scorpion1/Scorpion6/Scorpion7
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3935,7 +3935,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion1/Scorpion6/Scorpion7/Scorpion8
+    path: Scorpion_Rig/Scorpion_cog/Scorpion1/Scorpion6/Scorpion7/Scorpion8
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3960,7 +3960,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion1/Scorpion9
+    path: Scorpion_Rig/Scorpion_cog/Scorpion1/Scorpion9
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3985,7 +3985,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion1/Scorpion9/Scorpion10
+    path: Scorpion_Rig/Scorpion_cog/Scorpion1/Scorpion9/Scorpion10
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4010,7 +4010,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion1/Scorpion11
+    path: Scorpion_Rig/Scorpion_cog/Scorpion1/Scorpion11
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4035,7 +4035,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion1/Scorpion11/Scorpion12
+    path: Scorpion_Rig/Scorpion_cog/Scorpion1/Scorpion11/Scorpion12
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4060,7 +4060,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion13
+    path: Scorpion_Rig/Scorpion_cog/Scorpion13
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4085,7 +4085,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion13/Scorpion14
+    path: Scorpion_Rig/Scorpion_cog/Scorpion13/Scorpion14
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4110,7 +4110,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15
+    path: Scorpion_Rig/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4135,7 +4135,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15/Scorpion16
+    path: Scorpion_Rig/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15/Scorpion16
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4160,7 +4160,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15/Scorpion16/Scorpion17
+    path: Scorpion_Rig/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15/Scorpion16/Scorpion17
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4185,7 +4185,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15/Scorpion16/Scorpion17/Scorpion18
+    path: Scorpion_Rig/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15/Scorpion16/Scorpion17/Scorpion18
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4210,7 +4210,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15/Scorpion16/Scorpion17/Scorpion18/Scorpion19
+    path: Scorpion_Rig/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15/Scorpion16/Scorpion17/Scorpion18/Scorpion19
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4235,7 +4235,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15/Scorpion16/Scorpion17/Scorpion18/Scorpion19/Scorpion20
+    path: Scorpion_Rig/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15/Scorpion16/Scorpion17/Scorpion18/Scorpion19/Scorpion20
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4260,7 +4260,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15/Scorpion16/Scorpion17/Scorpion18/Scorpion19/Scorpion20/Scorpion21
+    path: Scorpion_Rig/Scorpion_cog/Scorpion13/Scorpion14/Scorpion15/Scorpion16/Scorpion17/Scorpion18/Scorpion19/Scorpion20/Scorpion21
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4285,7 +4285,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion22
+    path: Scorpion_Rig/Scorpion_cog/Scorpion22
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4310,7 +4310,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion22/Scorpion23
+    path: Scorpion_Rig/Scorpion_cog/Scorpion22/Scorpion23
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4335,7 +4335,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion22/Scorpion23/Scorpion24
+    path: Scorpion_Rig/Scorpion_cog/Scorpion22/Scorpion23/Scorpion24
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4360,7 +4360,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion22/Scorpion23/Scorpion24/Scorpion25
+    path: Scorpion_Rig/Scorpion_cog/Scorpion22/Scorpion23/Scorpion24/Scorpion25
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4385,7 +4385,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion26
+    path: Scorpion_Rig/Scorpion_cog/Scorpion26
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4410,7 +4410,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion26/Scorpion27
+    path: Scorpion_Rig/Scorpion_cog/Scorpion26/Scorpion27
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4435,7 +4435,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion26/Scorpion27/Scorpion28
+    path: Scorpion_Rig/Scorpion_cog/Scorpion26/Scorpion27/Scorpion28
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4460,7 +4460,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion26/Scorpion27/Scorpion28/Scorpion29
+    path: Scorpion_Rig/Scorpion_cog/Scorpion26/Scorpion27/Scorpion28/Scorpion29
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4485,7 +4485,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion30
+    path: Scorpion_Rig/Scorpion_cog/Scorpion30
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4510,7 +4510,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion30/Scorpion31
+    path: Scorpion_Rig/Scorpion_cog/Scorpion30/Scorpion31
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4535,7 +4535,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion30/Scorpion31/Scorpion32
+    path: Scorpion_Rig/Scorpion_cog/Scorpion30/Scorpion31/Scorpion32
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4560,7 +4560,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion30/Scorpion31/Scorpion32/Scorpion33
+    path: Scorpion_Rig/Scorpion_cog/Scorpion30/Scorpion31/Scorpion32/Scorpion33
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4585,7 +4585,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion34
+    path: Scorpion_Rig/Scorpion_cog/Scorpion34
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4610,7 +4610,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion34/Scorpion35
+    path: Scorpion_Rig/Scorpion_cog/Scorpion34/Scorpion35
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4635,7 +4635,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion34/Scorpion35/Scorpion36
+    path: Scorpion_Rig/Scorpion_cog/Scorpion34/Scorpion35/Scorpion36
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4660,7 +4660,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion34/Scorpion35/Scorpion36/Scorpion37
+    path: Scorpion_Rig/Scorpion_cog/Scorpion34/Scorpion35/Scorpion36/Scorpion37
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4685,7 +4685,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion38
+    path: Scorpion_Rig/Scorpion_cog/Scorpion38
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4710,7 +4710,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion38/Scorpion39
+    path: Scorpion_Rig/Scorpion_cog/Scorpion38/Scorpion39
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4735,7 +4735,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion38/Scorpion39/Scorpion40
+    path: Scorpion_Rig/Scorpion_cog/Scorpion38/Scorpion39/Scorpion40
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4760,7 +4760,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion38/Scorpion39/Scorpion40/Scorpion41
+    path: Scorpion_Rig/Scorpion_cog/Scorpion38/Scorpion39/Scorpion40/Scorpion41
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4785,7 +4785,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion42
+    path: Scorpion_Rig/Scorpion_cog/Scorpion42
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4810,7 +4810,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion42/Scorpion43
+    path: Scorpion_Rig/Scorpion_cog/Scorpion42/Scorpion43
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4835,7 +4835,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion42/Scorpion43/Scorpion44
+    path: Scorpion_Rig/Scorpion_cog/Scorpion42/Scorpion43/Scorpion44
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4860,7 +4860,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: group1/Scorpion_cog/Scorpion42/Scorpion43/Scorpion44/Scorpion45
+    path: Scorpion_Rig/Scorpion_cog/Scorpion42/Scorpion43/Scorpion44/Scorpion45
   m_FloatCurves: []
   m_PPtrCurves: []
   m_SampleRate: 24
@@ -4869,1249 +4869,7 @@ AnimationClip:
     m_Center: {x: 0, y: 0, z: 0}
     m_Extent: {x: 0, y: 0, z: 0}
   m_ClipBindingConstant:
-    genericBindings:
-    - serializedVersion: 2
-      path: 2049770969
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2049770969
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3864850784
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 4181274479
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1125005586
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2303974368
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2874197226
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 545698610
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2601060915
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1829978361
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1047406588
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3510662278
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 529674455
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 321493445
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2140235196
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2091700327
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 137358578
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 990307601
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2076251262
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 205788052
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 837432278
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2344189962
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3466066821
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2522906801
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2362721299
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3405513955
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2455232068
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2237794360
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3326084425
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 832193154
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 720795617
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 4270888105
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2105855770
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3864850784
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2386436089
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 4181274479
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1125005586
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3815339741
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2303974368
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2874197226
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2300177220
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 434947697
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2422324340
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1813956819
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2500303498
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 545698610
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2601060915
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1829978361
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1047406588
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3510662278
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 529674455
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 321493445
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2140235196
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 4084302394
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2091700327
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 137358578
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 990307601
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 735271821
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2076251262
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 205788052
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 837432278
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3040526188
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2344189962
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3466066821
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2522906801
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 53063926
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2362721299
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3405513955
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2455232068
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2501356251
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2237794360
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3326084425
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 832193154
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3438547725
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 720795617
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 4270888105
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2105855770
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2709916661
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2386436089
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3815339741
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2300177220
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 434947697
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2422324340
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1813956819
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2500303498
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 4084302394
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 735271821
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3040526188
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 53063926
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2501356251
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3438547725
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2709916661
-      attribute: 2
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2049770969
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3864850784
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2386436089
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 4181274479
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1125005586
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3815339741
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2303974368
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2874197226
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2300177220
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 434947697
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2422324340
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1813956819
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2500303498
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 545698610
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2601060915
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1829978361
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1047406588
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3510662278
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 529674455
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 321493445
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2140235196
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 4084302394
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2091700327
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 137358578
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 990307601
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 735271821
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2076251262
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 205788052
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 837432278
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3040526188
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2344189962
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3466066821
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2522906801
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 53063926
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2362721299
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3405513955
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2455232068
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2501356251
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2237794360
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3326084425
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 832193154
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3438547725
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 720795617
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 4270888105
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2105855770
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2709916661
-      attribute: 3
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
+    genericBindings: []
     pptrCurveMapping: []
   m_AnimationClipSettings:
     serializedVersion: 2
@@ -6123,7 +4881,7 @@ AnimationClip:
     m_Level: 0
     m_CycleOffset: 0
     m_HasAdditiveReferencePose: 0
-    m_LoopTime: 1
+    m_LoopTime: 0
     m_LoopBlend: 0
     m_LoopBlendOrientation: 0
     m_LoopBlendPositionY: 0
